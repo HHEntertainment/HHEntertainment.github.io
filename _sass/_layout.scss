@@ -342,7 +342,25 @@ pre code.hljs {
 			max-width: 320px;
 			margin: auto;
 			padding-bottom: 0.5em;
- 		}
+		 }
+		 .project {
+			 width: 70px;
+			 height: 70px;
+		 }
+		 .screenshot_wide {
+			 border-radius: 15px;
+		 }
+		 .screenshot_mobile {
+			 display: inline-block;
+			 width: 180px;
+			 height: 320px;
+			 border-radius: 10px;
+		 }
+		 .seperator {
+			 width: 300px;
+			 height: 2px;
+			 background-color: black;
+		 }
 	}
 }
 

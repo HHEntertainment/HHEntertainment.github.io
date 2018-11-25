@@ -4,6 +4,7 @@ layout: page
 permalink: "/about/"
 ---
 
+<center><p><b>조현호(Chris Cho)</b></p></center>
 <img src="{{ site.baseurl }}/assets/hh_profie.jpg" title="Profile Picture" class="profile">
 
 저는 여러 재밌는 서비스를 만들기 좋아하는 개발자입니다.  

@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Git의 동작 방식 자세히 들여다보기"
+date: 2018-11-25 13:00:00
+author: HH Cho
+category: Git
+---

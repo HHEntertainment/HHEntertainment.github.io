@@ -1,0 +1,8 @@
+---
+layout: post
+title: "JS의 동작 방식 자세히 들여다보기"
+date: 2018-11-24 15:00:00
+author: HH Cho
+category: Javascript
+---
+ 

@@ -1,0 +1,8 @@
+---
+layout: post
+title: "나의 2018년"
+date: 2018-11-25 15:00:00
+author: HH Cho
+category: Thoughts
+---
+  
